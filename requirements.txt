@@ -1,0 +1,7 @@
+telethon
+cryptg
+asyncio
+aiohttp
+fastapi
+uvicorn
+uvloop
