@@ -5,3 +5,5 @@ aiohttp
 fastapi
 uvicorn
 uvloop
+Jinja2
+python-multipart
