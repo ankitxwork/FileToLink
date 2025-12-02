@@ -7,3 +7,5 @@ uvicorn
 uvloop
 Jinja2
 python-multipart
+boto3
+requests
